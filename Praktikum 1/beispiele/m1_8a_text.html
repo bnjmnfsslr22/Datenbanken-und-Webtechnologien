@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Textauszeichnung</title>
+    <style>
+        h1 {
+            text-decoration: underline;
+            text-decoration-thickness: 1px; /* macht den Unterstrich dünn */
+        }
+
+        .untertitel {
+            font-style: italic;
+            margin-top: -10px; /* Dieser Wert zieht "Der Klassiker" näher an "Currywurst mit Pommes". Sie können diesen Wert nach Bedarf anpassen. */
+        }
+
+        .haupt li:first-child, .haupt li:last-child {
+            font-weight: bold;
+        }
+
+        .beilage {
+            color: darkgreen;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Currywurst mit Pommes</h1>
+<h3 class="untertitel">Der Klassiker</h3>
+<ul class="haupt">
+    <li>Bratwurst</li>
+    <li class="beilage">Fritten</li>
+    <li>Currysauce</li>
+</ul>
+
+</body>
+</html>

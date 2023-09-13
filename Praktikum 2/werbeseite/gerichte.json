@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Rindfleisch mit Bambus, Kaiserschoten und rotem Paprika, dazu Mie Nudeln",
+        "intern": "3,50",
+        "extern": "6,20",
+        "bild": "rindfleisch.jpg"
+    },
+    {
+        "name": "Spinatrisotto mit kleinen Samosateigecken und gemischtem Salat",
+        "intern": "2,90",
+        "extern": "5,30",
+        "bild": "spinatrisotto.jpg"
+    }
+]
