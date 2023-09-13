@@ -4,7 +4,7 @@
 
 1. [E-Mensa Werbeseite-Entwicklung und Fortgeschrittene Web-Entwicklungspraktiken](#projekt1)
 2. [PHP-Setup, Applikationsentwicklung und Dynamisierung einer Werbeseite](#projekt2)
-3. [Meilenstein 3 – Werbeseite (mit Datenbank) und zugehörige Aufgaben](#projekt3)
+3. [Werbeseite (mit Datenbank) und zugehörige Aufgaben](#projekt3)
 
 ---
 
